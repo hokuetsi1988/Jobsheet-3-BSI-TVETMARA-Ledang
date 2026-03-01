@@ -5,6 +5,7 @@ So this jobsheet is the introduction to Internet of Things or IoT for short. the
 1. Make a webserver from the ESP32, showing the details of DHT sensor
 2. Setup Blynk on mobile and desktop environment
 3. Monitor the data of DHT sensor from Blynk
+4. Combine all of em
 ```
 Of course, its not gonna be that easy. But I made it easier for you guys, I hope lol.
 
@@ -47,9 +48,13 @@ here is the result on desktop
 
 the result on mobile device should look like this
 
-#### important
-when you want to check the result
+#### important‼️‼️
+when you want to check the result, make sure your esp and device is connected to the same wifi!
 
+### 🌐 Monitoring the DHT via Blynk
+now here is where stuff gets real, I will be providing you guys with a tiktok video on how to configure Blynk
+
+(link goes here)
 
 as usual, lets make a list of what Im gonna do
 - [ ] schematic diagram
@@ -57,8 +62,8 @@ as usual, lets make a list of what Im gonna do
 - [x] library install
 - [x] coding for task 1 (monitoring using webserver)
 - [x] check the result on browser
-- [ ] next task monitor using blynk
-- [ ] login to blynk, setup some stuff
+- [x] next task monitor using blynk
+- [x] login to blynk, setup some stuff
 - [ ] coding for task 2
 - [ ] check result
 - [ ] DONE!
