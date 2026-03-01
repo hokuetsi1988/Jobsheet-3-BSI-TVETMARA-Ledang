@@ -30,12 +30,33 @@ here is my physical setup, as you can see on the picture below Im using the DHT1
 
 The schematic setup for this jobsheet is pretty simple too. But eh, for the sake of documentation Im gonna put it here anyway
 
+(the schematic goes in here)
+
+### 🌐 Monitoring the DHT via webserver
+now were in the first task of this johsheet. Simply said, we need to connect the esp32 to the internet so that we can show the output of the DHT sensor on a website. The website is built via html in the IDE, nothing fancy for people who learn html. Anyway, the source code is uploaded labelled "DHT_display_WebServer". Do check that out and upload it to your esp. The result are shown below. 
+
+<img width="1854" height="357" alt="IP address for the webserver" src="https://github.com/user-attachments/assets/6ce71335-ee78-4c6c-8806-1e3e86c76fdf" />
+
+this is the expected result when you check the serial monitor running at 115200 baudrate. make sure to upload the code first wwww
+
+<img width="1366" height="720" alt="webserver on desktop mode" src="https://github.com/user-attachments/assets/2caca9a9-81ca-4b1f-8780-e51b98caab04" />
+
+here is the result on desktop
+
+![result on mobile device](https://github.com/user-attachments/assets/4c2bbfae-38df-4b91-a964-b1ca37ccd5b0)
+
+the result on mobile device should look like this
+
+#### important
+when you want to check the result
+
+
 as usual, lets make a list of what Im gonna do
 - [ ] schematic diagram
 - [x] physical setup
 - [x] library install
-- [ ] coding for task 1 (monitoring using webserver)
-- [ ] check the result on browser
+- [x] coding for task 1 (monitoring using webserver)
+- [x] check the result on browser
 - [ ] next task monitor using blynk
 - [ ] login to blynk, setup some stuff
 - [ ] coding for task 2
