@@ -52,9 +52,9 @@ the result on mobile device should look like this
 > when you want to check the result, make sure your esp and device is connected to the same wifi!
 
 ### 🌐 Monitoring the DHT via Blynk
-now here is where stuff gets real, I will be providing you guys with a tiktok video on how to configure Blynk. The source code labelled "DHT_display_Blynk" is also provided, do check them out.
+now here is where stuff gets real, I will be providing you guys with a YouTube video on how to configure Blynk. The source code labelled "DHT_display_Blynk" is also provided, do check them out.
 
-(link goes here)
+[Here's the video. Click me!](https://youtu.be/hQmJOk454Cw)
 
 > How it works ⬇️
 
