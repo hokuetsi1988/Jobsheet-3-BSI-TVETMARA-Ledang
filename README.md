@@ -65,9 +65,9 @@ Blynk is a gateway of IoT. In this jobsheet, it demonstrates the capability of w
 Blynk provides us with a template to monitor our projects. Inside the template we have to insert a datastream which is the input of the sensor. One datastream is for one input only. This means for some components that can give more than one output, we have to insert individual datastream. In our case here, DHT sensor can read 2 input, temperature and humidity. Therefore, 2 datastreams are needed. After setting up the datastream, building a dashboard is the next step. Dashboard is important because user interface is needed to understand what is happening without going developer mode.
 
 ### 🌐 Code Modifications
-For this section, we just have to combine both monitoring method via Webserver and Blynk. You know the drill, check the uploaded file. I label them "DHT_monitoring_mod". Oh yeah tiktok video will also be provided, so do check them for reference!
+For this section, we just have to combine both monitoring method via Webserver and Blynk. You know the drill, check the uploaded file. I label them "DHT_monitoring_mod". Oh yeah youtube video will also be provided, so do check them for reference!
 
-(link goes here)
+[link here!](https://youtu.be/1MPRxVlzirs)
 
 ## We're done! ᗜ⩊ᗜ
 to be fair, this repo is a bit longer than before. Because I feel like I need to give a little more detail to get people complete this jobsheet, but I dont want them to feel overwhelmed. Its difficult lol but Im glad I finished it. Till we meet again!
