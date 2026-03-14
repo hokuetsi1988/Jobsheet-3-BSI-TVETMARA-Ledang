@@ -71,19 +71,3 @@ For this section, we just have to combine both monitoring method via Webserver a
 
 ## We're done! ᗜ⩊ᗜ
 to be fair, this repo is a bit longer than before. Because I feel like I need to give a little more detail to get people complete this jobsheet, but I dont want them to feel overwhelmed. Its difficult lol but Im glad I finished it. Till we meet again!
-
-
-to do before making the repo public
-- [x] schematic diagram
-- [x] physical setup
-- [x] library install
-- [x] coding for task 1 (monitoring using webserver)
-- [x] check the result on browser
-- [x] next task monitor using blynk
-- [x] login to blynk, setup some stuff
-- [x] coding for task 2
-- [x] check result
-- [ ] video blynk
-- [ ] video webserver and blynk
-- [ ] DONE!
-
